@@ -15,7 +15,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
